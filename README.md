@@ -2,6 +2,8 @@
 
 Actividad 1 de Desarrollo Web en Entorno Cliente. Carrito de compra desarrollado con HTML, CSS, JavaScript y una API local en PHP.
 
+Repositorio público: https://github.com/mcuestasoto/agoodshop
+
 ## Requisitos
 
 Un servidor web local con PHP (por ejemplo, MAMP o XAMPP).
